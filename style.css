@@ -82,6 +82,15 @@ body {
     display: inline-block;
     
   }
+/*Music page */
+#music_float_left{
+  width: 500px;
 
+}
+#music_float_left{
+  width: 500px;
+  float: right;
+  
 
+}
 
