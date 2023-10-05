@@ -83,14 +83,10 @@ body {
     
   }
 /*Music page */
-#music_float_left{
-  width: 500px;
 
-}
-#music_float_left{
+#song_text_left{
   width: 500px;
-  float: right;
-  
-
 }
+
+
 
